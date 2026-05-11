@@ -21,3 +21,7 @@ The source files for generating data used in Figs 5, 6, and 8. Ignore dim, m0, h
 ## mk-hk_noise_rge_ev_h.py
 The source file for generating data used in Fig 7.
 
+## mk-hk_noise_rge_a0.90_e0.10_d0.0005_n800_tr0.txt and mk-hk_noise_rge_a0.90_e0.10_d0.0050_n800_tr0.txt
+The files containing data used in Fig 7.
+
+
