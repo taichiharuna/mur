@@ -27,3 +27,5 @@ The files containing data used in Fig 7.
 ## rge_mk_a0.90_d0.001_n1600_tr9.txt
 The file containing data used in Fig 9.
 
+## mk_ron_decomposition_trial_numerical.py and average_ron_numerical.py and mk_rge_decomposition_trial_numerical.py and average_rge_numerical.py 
+The source files for generating data used in Fig 10.
