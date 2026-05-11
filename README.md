@@ -1,2 +1,16 @@
 # mur (under construction)
 Repository for Haruna, T., Nakajima, K., 2026. Memory uncertainty relation and harmonic memory in random recurrent networks. Physical Review E, accepted.
+
+## Symbols requiring explanation (X (in the codes): Y (in the paper))
+delta: $`\beta`$  
+mk0: $`h(k)`$  
+rge: RGN  
+
+## Note
+The seed of PRNG is not specified in the following source files. 
+
+## mk_ron_decomposition_trial.py and average_ron.py
+The source files for generating data used in Figs 1 and 2. 
+
+## mk_rge_decomposition_trial.py and average_rge.py
+The source files for generating data used in Figs 3 and 4. 
